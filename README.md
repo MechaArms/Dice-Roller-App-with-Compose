@@ -1,4 +1,4 @@
-# Dice-Roller-App-with-Compose
+# Dice Roller App
 
 Android Google Codelab exercise about create a Dice roller app using Jetpack Compose
 
