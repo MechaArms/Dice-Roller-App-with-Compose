@@ -1,5 +1,6 @@
 # Dice-Roller-App-with-Compose
-Dice roller app made using Kotlin in Android Studio from the Google Codelab
+
+Android Google Codelab exercise about create a Dice roller app using Jetpack Compose
 
 [link from the exercise](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2?hl=pt-br#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-button-click-practice-problem)
 
